@@ -18,7 +18,7 @@ defmodule ExNvidiaRivaModules.MixProject do
     [
       maintainers: ["Ed Vazquez"],
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/augyai/nvidia_riva_grpc_elixir_modules"}
+      links: %{"GitHub" => "https://github.com/ed-vazquez/ex_nvidia_riva_modules"}
     ]
   end
 
