@@ -10,7 +10,7 @@ by adding `ex_nvidia_riva_modules` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:ex_nvidia_riva_modules, "~> 0.1.0"}
+    {:ex_nvidia_riva_modules, "~> 2.11.0"}
   ]
 end
 ```
